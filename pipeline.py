@@ -36,7 +36,6 @@ def task():
             print("\n \n")
         if choice == 2:
 
-
             print("Question & Answer  in context of the pdf")
 
             while True:
@@ -66,14 +65,6 @@ def task():
     except ValueError:
         print("enter 1 or 2")
 
-
-
-    
-
-    
-            
-
-    
 
 
 if __name__ == "__main__":
