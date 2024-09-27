@@ -1,0 +1,3 @@
+transformers
+PyPDF2
+requests
